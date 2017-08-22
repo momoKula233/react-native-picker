@@ -1,0 +1,12 @@
+{
+  "name": "react-native-picker",
+  "version": "0.0.1",
+  "description": "Picker Component for React Native",
+  "main": "index.js",
+  "author": "momo",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-native": "^0.47.1"
+  }
+}
