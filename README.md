@@ -1,4 +1,4 @@
-# an Picker Component for React Native
+# a Picker Component for React Native
 
 usage:
 
